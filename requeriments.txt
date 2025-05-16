@@ -1,0 +1,10 @@
+smtplib / email — envio de e-mails
+
+pandas — manipular planilhas com e-mails
+
+jinja2 — para gerar cartas de apresentação com base em templates
+
+dotenv — para armazenar credenciais com segurança
+
+PyPDF2 - modificar o currículo
+

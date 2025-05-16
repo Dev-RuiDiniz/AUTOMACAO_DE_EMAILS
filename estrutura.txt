@@ -1,0 +1,12 @@
+AUTOMACAO_DE_EMAILS/
+│
+├── requirements.txt         # Requerimentos do Sistema
+├── main.py                  # Aplicação Principal
+├── emails.csv               # Lista de e-mails e empresas
+├── carta_template.txt       # Template da carta de apresentação
+├── currículo.pdf
+├── .env                     # Credenciais e configs sensíveis
+└── utils/
+    ├── email_sender.py
+    ├── carta_generator.py
+    └── email_scraper.py     # (opcional, se for automatizar coleta da web)
